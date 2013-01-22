@@ -8,7 +8,7 @@
 // app.start();
 //
 //curl 0.0.0.0:3000/health
-//{"host":"YPCMC10598","pid":91085,"memory":{"rss":23724032,"heapTotal":17558272,"heapUsed":9607960},"uptime":26}
+//{"host":"foo","pid":91085,"memory":{"rss":23724032,"heapTotal":17558272,"heapUsed":9607960},"uptime":26}
 exports.init = init;
 exports.start = start;
 exports.stop = stop;
