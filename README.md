@@ -14,7 +14,7 @@
 Each test lives in a single file under test folder
 
     npm test                        # run all unit tests
-    node test/unit/test_health.js   # run asingle test
+    node test/unit/test_health.js   # run a single test
 
 
 ## Run from anywhere
